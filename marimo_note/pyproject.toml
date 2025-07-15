@@ -18,4 +18,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "api_server_templates/litestar_template",
+    "project_templates/django_template",
 ]
